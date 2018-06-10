@@ -1,3 +1,26 @@
 body {
+	background-color: lightblue;
 	font-family: sans-serif;
+}
+
+h1 {
+	color: darkorange;
+}
+
+h2 {
+	color: purple;
+	font-style: italic;
+}
+
+h3 {
+	color: darkred;
+}
+
+li {
+	padding-top: 5px;
+	color: darkgreen;
+}
+li.best {
+	font-weight : bold;
+	color: red;
 }
